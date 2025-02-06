@@ -17,4 +17,7 @@ The task of designing a logo for a construction company that portrays its commit
 
 With Figma, I created the house outlines using simple geometric shapes and a thick band of yellow very prominent in the background. For the company name, "CONSTRUCTION" I chose a clean, bold font for professionalism, and the tagline, "Building the Future, Restoring the Past," beneath it was written in a much softer font.
 
-I balanced the whole composition while tweaking the layout so that every element aligned appropriately. I kept the color scheme rather simple, using only black, gray, and yellow, because I wanted it to be minimal yet hard-hitting. The logo is modern and quite meaningful, speaking out for what the company does effectively. 
+I balanced the whole composition while tweaking the layout so that every element aligned appropriately. I kept the color scheme rather simple, using only black, gray, and yellow, because I wanted it to be minimal yet hard-hitting. The logo is modern and quite meaningful, speaking out for what the company does effectively.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/07405fc3-7727-4f54-9c43-a6a802084484)
